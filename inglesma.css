@@ -1,0 +1,11 @@
+body{
+    background-color: pink;
+}
+
+.card{
+    
+float: left;
+    margin-top: 40px;
+    margin-left: 200px;
+    
+}

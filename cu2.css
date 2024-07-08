@@ -1,0 +1,83 @@
+
+
+body{ background-color: forestgreen;
+    
+    
+}
+*{margin: 0px;
+padding:0px ;
+}
+
+.general{float: left;
+    margin auto;
+    margin-top: 50px;
+    width: 1500px;
+    height: 1500px;
+    background-color: deeppink;
+    
+}
+.ofertas{float: left;
+  margin-top: 50px;  
+  float: rigth;
+  width: 400px;  
+  height: 400px;
+    background-color: chartreuse;
+}
+
+.novedades{float: left;
+   margin-top: 50px;
+    float: right;
+    width: 600px;
+    height:400px;
+    background-color: aqua;
+    
+}
+
+.body{float: left,
+   margin-top: 30px;
+    width: 500px;
+    height: px;
+    background-color: darkorange;
+    
+}
+
+.esper{float: left;
+   margin-top: 30px;
+    width: 400px;
+    height: 250px;
+    background-color: fuchsia;
+    
+    
+}
+
+
+
+
+
+
+i{background-color: darkcyan; 
+    
+    
+}
+
+u{background-color: darkviolet;
+    
+}
+
+h2{background-color: chocolate;
+    
+}
+.general{
+    margin-left: 200x;
+    margin-right: 200;
+    
+}
+
+
+
+
+
+
+
+
+

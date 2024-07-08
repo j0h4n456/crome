@@ -1,0 +1,9 @@
+body{
+    background-color: azure;
+}
+
+.card{
+    
+    float: left;
+    margin-left: 20px;
+}

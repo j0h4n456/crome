@@ -1,0 +1,12 @@
+body{
+    
+    background-color: cornsilk;
+}
+.card{
+    float: left;
+    background-color: pink;
+     margin-top: 60px;
+    margin-left: 200px;
+    
+}
+

@@ -1,0 +1,9 @@
+body{
+    background-color: cornsilk;
+}
+
+.card{
+    float: left;
+    margin-left: 80px;
+    margin-top: 80px;
+}
