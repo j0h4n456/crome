@@ -1,0 +1,9 @@
+body{
+    background-color: aquamarine;
+}
+
+.card{
+    float: left;
+    margin-top: 50px;
+    margin-left: 70px;
+}
